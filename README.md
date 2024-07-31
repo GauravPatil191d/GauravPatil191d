@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gaurav191d
-- 👀 I’m interested in web Development
+- 👀 I’m interested in Full-stack web Development
 - 🌱 I’m currently learning MERN Stack
 - 📫 How to reach me => gauravpatil191d@gmail.com
 - 😄 Pronouns: He/Him
